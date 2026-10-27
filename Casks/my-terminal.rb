@@ -1,6 +1,6 @@
 cask "my-terminal" do
-  version "1.0"
-  sha256 "fd903d1713793fdefe36460b9059fd88836fe0b89360293df8a0aa5e2552bf1a"
+  version "1.0.1"
+  sha256 "cd0a6aea0db01581d9c8e2c795ff6862ab935cb2e28cb39ad655453d02bffe6a"
 
   url "https://github.com/smerticariu/smerticariu.github.io/releases/download/my-terminal-v#{version}/MyTerminal-#{version}.dmg",
       verified: "github.com/smerticariu/smerticariu.github.io/"
